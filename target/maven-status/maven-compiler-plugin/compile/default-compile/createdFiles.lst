@@ -1,0 +1,6 @@
+javamain\entity\Student.class
+javamain\repository\StudentRepository.class
+javamain\service\StudentService.class
+javamain\controller\StudentController.class
+javamain\StudentManagementSystemApplication.class
+javamain\service\impl\StudentServiceImpl.class
